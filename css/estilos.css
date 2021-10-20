@@ -1,0 +1,13 @@
+body{
+    background-color:lightblue;
+  }
+  #menu_redes{
+    position:fixed;
+    /*fixed no lo afecta el scroll*/
+    background-color:lightskyblue;
+    width:130px;
+    text-align:center;
+    top:0px;
+    right:0px;
+    border-radius:0px 0px 0px 20px;
+  }
